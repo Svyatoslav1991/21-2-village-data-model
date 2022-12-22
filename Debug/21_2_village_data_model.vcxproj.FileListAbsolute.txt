@@ -1,0 +1,2 @@
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\21_2_village_data_model\Debug\21_2_village_data_model.exe
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\21_2_village_data_model\Debug\21_2_village_data_model.pdb
